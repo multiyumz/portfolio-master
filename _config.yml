@@ -1,0 +1,22 @@
+# Site default images and content
+
+bg-img: hero-bg.jpg
+
+logo: logo.svg
+
+avatar: travitar.jpg
+
+
+
+
+# Build settings
+
+markdown: kramdown
+permalink: pretty
+
+port: 8080
+
+
+sass:
+  sass_dir: assets/css
+  style: :nested
